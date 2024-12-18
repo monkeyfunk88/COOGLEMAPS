@@ -1,0 +1,5 @@
+title: My Awesome Website
+theme: jekyll-theme-minimal
+description: >- # The description
+  Welcome to my amazing website!
+baseurl: "/my-website" # Adjust if your site is in a subdirectory
